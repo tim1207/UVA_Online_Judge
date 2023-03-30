@@ -1,4 +1,4 @@
-//uva10035_The_3n_+_1_problem.cpp
+//uva00100_The_3n_+_1_problem.cpp
 #include <iostream>
 #include <vector>
 
